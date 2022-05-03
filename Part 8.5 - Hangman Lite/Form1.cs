@@ -16,5 +16,6 @@ namespace Part_8._5___Hangman_Lite
         {
             InitializeComponent();
         }
+
     }
 }
